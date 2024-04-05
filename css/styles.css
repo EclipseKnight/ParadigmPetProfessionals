@@ -9,7 +9,9 @@ html, body {
   
 }
 
-
+a { 
+  text-wrap: wrap;
+}
 /* Primary colors */
 .bg-primary {
   background-color: #003b6d !important;
